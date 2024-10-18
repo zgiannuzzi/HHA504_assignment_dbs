@@ -14,6 +14,7 @@
 
 ### GCP MySQL 
 1. Create MySQL database and configuration
+![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_dbs/blob/main/GCP_sql1.png)
 2. Picture of configuration 
 ![Image of Azure overview](https://github.com/zgiannuzzi/HHA504_assignment_dbs/blob/main/GCP_sql1.png)
 
